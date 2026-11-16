@@ -1,4 +1,6 @@
-<h1 align="center">HELLUUUUUU :></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F8884&center=true&vCenter=true&width=500&lines=HELLUUUUUU+%3A%3E" alt="HELLUUUUUU :>" />
+</p>
 <p align="center">I'm Jhonny Sumulong, a web developer</p>
 
 <p align="center">
